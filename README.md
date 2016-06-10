@@ -1,2 +1,2 @@
-# ocean-eddy-energy
+# eddy-energy
 Physical Oceanography
