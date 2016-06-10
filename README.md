@@ -1,2 +1,2 @@
 # eddy-energy
-Physical Oceanography
+Physical oceanography research
